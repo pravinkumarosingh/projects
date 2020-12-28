@@ -1,1 +1,1 @@
-Galvanic Vestibular Simulation using Virtual Reality
+## Galvanic Vestibular Simulation using Virtual Reality
