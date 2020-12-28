@@ -15,4 +15,4 @@ The current idea is to convert the logs into images and train the model using de
 
 
 
-_Presented at UPES Hackathon 2020 Dehradun._
+### _Presented at UPES Hackathon 2020 Dehradun._ ###
