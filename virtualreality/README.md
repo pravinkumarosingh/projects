@@ -61,7 +61,8 @@ Simulation is the virtual reality part of the project. Although the project is s
 ![car-simulation](https://github.com/pravinkumarosingh/projects/blob/master/virtualreality/images/car-simulation.png)
 
 ### References
-[Galvanic Vestibular Stimulation](https://www.sciencedirect.com/topics/medicine-and-dentistry/galvanic-vestibular-stimulation)
+1. [Galvanic Vestibular Stimulation](https://www.sciencedirect.com/topics/medicine-and-dentistry/galvanic-vestibular-stimulation)
+2. [Full body haptic display for low-cost racing car driving simulators](https://ieeexplore.ieee.org/document/5759490)
 
 
 
