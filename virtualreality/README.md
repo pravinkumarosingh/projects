@@ -21,6 +21,9 @@ In Non-Invasive BCI there is no need to implant the electrodes inside the brain 
 ### VR - Virtual Reality
 Virtual Reality is the simulation of the real environment. We all know the metaverse which is trending technology, it is also being called the new version of the internet. The word metaverse is derived from the meta which means __beyond__ and verse meaning __universe__. Now enough talking about the domains let's dive into project. 
 
+### Basic Idea About the Project
+Suppose you are  driving a car.
+
 ### What is Galvanic?
 Galvanic is aka galvanic current is the process of the passing the electric current to the __vestibular labyrinth__. Vestibular Labyrinth are the sensory organs below the ear.
 
@@ -33,6 +36,10 @@ Galvanic is aka galvanic current is the process of the passing the electric curr
 Circuit in the project is the interface between human brain and virtual reality simualtion. The main part in the circuit is H-bridge which is responsible for the flow of current. Galvanic Stimulation totally depend on this part of the circuit. H-bridge maintains the current at 3mA which is the required current. The current should not exceed this level. The second part in the circuit is connecting with the raspberry pi so as to control the simulation. Power supply to the circuit is done through the 12 Volts battery.
 
 ![circuit](https://github.com/pravinkumarosingh/projects/blob/master/virtualreality/images/circuit.png)
+
+
+### Simulation
+Simulation is the virtual reality part of the project. Although the project is suitable any simulation we decided to use the car simulation. 
 
 
 
