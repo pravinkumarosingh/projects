@@ -35,18 +35,18 @@ Galvanic is aka galvanic current is the process of the passing the electric curr
 ### Tools Used
 
 #### Hardware
-> PNP Transistor
-> NPN Transistor
-> Raspberry PI
-> 12 Volts Battery
-> Bread Board
-> Electrodes
-> Digital Mulitmeter (for monitoring the current)
+* PNP Transistor
+* NPN Transistor
+* Raspberry PI
+* 12 Volts Battery
+* Bread Board
+* Electrodes
+* Digital Mulitmeter (for monitoring the current)
 
 #### Software
-> Blender
-> Unity 3D
-> Python 
+* Blender
+* Unity 3D
+* Python 
 
 ### Circuit
 Circuit in the project is the interface between human brain and virtual reality simualtion. The main part in the circuit is H-bridge which is responsible for the flow of current. Galvanic Stimulation totally depend on this part of the circuit. H-bridge maintains the current at 3mA which is the required current. The current should not exceed this level. The second part in the circuit is connecting with the raspberry pi so as to control the simulation. Power supply to the circuit is done through the 12 Volts battery.
