@@ -1,4 +1,4 @@
-## Galvanic Vestibular Simulation using Virtual Reality
+## Galvanic Vestibular Stimulation using Virtual Reality
 
 #### This project is based on two domains the first one is BCI(Brain Computer Interface) and second one is VR(Virtual Reality).
 
@@ -25,6 +25,8 @@ Virtual Reality is the simulation of the real environment. We all know the metav
 Galvanic is aka galvanic current is the process of the passing the electric current to the __vestibular labyrinth__. Vestibular Labyrinth are the sensory organs below the ear.
 
 ![galvanic-stimulation](https://github.com/pravinkumarosingh/projects/blob/master/virtualreality/images/galvanic-stimulation.jpg)
+
+
 
 
 
