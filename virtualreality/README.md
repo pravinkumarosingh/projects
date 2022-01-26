@@ -37,6 +37,7 @@ Galvanic is aka galvanic current is the process of the passing the electric curr
 #### Hardware
 * PNP Transistor
 * NPN Transistor
+* Resistors
 * Raspberry PI
 * 12 Volts Battery
 * Bread Board
