@@ -24,6 +24,8 @@ Virtual Reality is the simulation of the real environment. We all know the metav
 ### What is Galvanic?
 Galvanic is aka galvanic current is the process of the passing the electric current to the __vestibular labyrinth__. Vestibular Labyrinth are the sensory organs below the ear.
 
+![galvanic-stimulation](https://github.com/pravinkumarosingh/projects/blob/master/virtualreality/images/galvanic-stimulation.jpg)
+
 
 
 
