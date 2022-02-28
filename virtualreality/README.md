@@ -13,7 +13,7 @@
  2. Non-Invasive BCI
 
 #### Invasive BCI
-In Invasive BCI the electrodes which are used to control the human brain are implanted inside the human brain. For example the [Neuralink](https://neuralink.com/) project funded by Elon Musk.
+In Invasive BCI the electrodes which are used to control the human brain are implanted inside the human brain. For example the [Neuralink](https://neuralink.com/) project founded by Max Hodak and co-founded by Elon Musk.
 
 #### Non-Invasive BCI
 In Non-Invasive BCI there is no need to implant the electrodes inside the brain instead it sticked to the essential part of the brain where the neurons are mostly active.
